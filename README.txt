@@ -19,7 +19,7 @@ Libraries needed:
 Steps to execute:
 1. Extract group34-project.zip in your local system
 2. Open your command line Terminal in the same folder and run the following commands
-./project.sh
+./analysis.sh
 -----------------------------------------------------------------------------------------
 
 NOTE:
