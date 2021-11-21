@@ -16,7 +16,8 @@ Libraries needed:
 
 Steps to execute project:
    1. Extract group34-project.zip in your local system
-   2. Steps to execute the preprocessing part: 
+   2. Steps to execute the preprocessing part:
+      Note: The Preprocessing part will take some time (around half an hour) please be patient.
          1. Goto folder named "Preprocessing"
          2. Goto Preprocessing1 or Preprocessing2
          3. Open your command line Terminal in the same folder and run the following commands
