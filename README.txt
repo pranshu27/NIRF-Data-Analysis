@@ -1,6 +1,4 @@
 ﻿
-
-
 Libraries needed:
 * PyPDF
 * PyPDF2
@@ -16,10 +14,18 @@ Libraries needed:
 
 -----------------------------------------------------------------------------------------
 
-Steps to execute:
-1. Extract group34-project.zip in your local system
-2. Open your command line Terminal in the same folder and run the following commands
-./analysis.sh
+Steps to execute project:
+   1. Extract group34-project.zip in your local system
+   2. Steps to execute the preprocessing part: 
+         1. Goto folder named "Preprocessing"
+         2. Goto Preprocessing1 or Preprocessing2
+         3. Open your command line Terminal in the same folder and run the following commands
+         ./preprocessing1.sh or ./preprocessing2.sh to run either preprocessing parts.
+   3. Steps to execute the analysis part:
+         1. Goto folder named "Analysis" 
+         2. Open your command line Terminal in the same folder and run the following commands
+         ./analysis.sh
+
 -----------------------------------------------------------------------------------------
 
 NOTE:
